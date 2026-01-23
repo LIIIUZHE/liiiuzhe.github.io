@@ -2,7 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+# the website title (if blank, full name will be used instead)
+title: blank 
 first_name: You
 middle_name: R.
 last_name: Liu Zhe
@@ -16,7 +17,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: "⚛️" # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://liiiuzhe.github.io # the base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -316,32 +317,32 @@ enable_publication_badges:
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
   [
-    abbr,
-    abstract,
-    additional_info,
-    altmetric,
-    annotation,
-    arxiv,
-    award,
-    award_name,
-    bibtex_show,
-    blog,
-    code,
-    dimensions,
-    eprint,
-    google_scholar_id,
-    hal,
-    html,
-    inspirehep_id,
-    pdf,
-    pmid,
-    poster,
-    preview,
-    selected,
-    slides,
-    supp,
-    video,
-    website,
+    - abbr,
+    - abstract,
+    - additional_info,
+    - altmetric,
+    - annotation,
+    - arxiv,
+    - award,
+    - award_name,
+    - bibtex_show,
+    - blog,
+    - code,
+    - dimensions,
+    - eprint,
+    - google_scholar_id,
+    - hal,
+    - html,
+    - inspirehep_id,
+    - pdf,
+    - pmid,
+    - poster,
+    - preview,
+    - selected,
+    - slides,
+    - supp,
+    - video,
+    - website,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)

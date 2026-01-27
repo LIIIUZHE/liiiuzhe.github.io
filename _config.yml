@@ -5,7 +5,7 @@
 # the website title (if blank, full name will be used instead)
 title: blank
 first_name: Zhe
-middle_name: 
+middle_name: ""
 last_name: Liu
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -30,7 +30,7 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default #
+repo_theme_light: default
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
@@ -102,7 +102,7 @@ lsi: false # produce an index for related posts
 # Pagination
 pagination:
   enabled: true
- 
+
 related_blog_posts:
   enabled: true
   max_related: 5

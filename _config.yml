@@ -102,7 +102,7 @@ lsi: false # produce an index for related posts
 # Pagination
 pagination:
   enabled: true
-
+ 
 related_blog_posts:
   enabled: true
   max_related: 5

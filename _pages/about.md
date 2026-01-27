@@ -123,13 +123,13 @@ permalink: /
   <img class="avatar" src="{{ '/assets/img/avatar.png' | relative_url }}" alt="avatar" loading="eager">
   <div>
     <h1>Zhe Liu</h1>
-    <p class="subtitle">Research Scientist, Robotics / Embodied AI</p>
+    <p class="subtitle">Isaacsim / Mujoco / Ros</p>
     <p class="bio">
-      I was a Senior Research Scientist at NVIDIA's GEAR group. I obtained my Ph.D. degree from Columbia University, advised by Shuran Song.
+      Tester .
     </p>
     <div class="links">
-      Email: <a href="mailto:you@example.com">you@example.com</a><br>
-      <a href="https://scholar.google.com/">Google Scholar</a> / <a href="https://github.com/liiiuzhe">GitHub</a> / <a href="https://www.linkedin.com/">LinkedIn</a>
+      Email: <a href="mailto:you@example.com">2224861123@qq.com</a><br>
+      <a href="https://scholar.google.com/">Google Scholar</a> / <a href="https://github.com/liiiuzhe">GitHub</a> 
     </div>
   </div>
 </div>
